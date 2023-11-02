@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f74b24a.css",
+    "main.js": "/static/js/main.a098cbba.js",
+    "static/media/pancakes.png": "/static/media/pancakes.7e4ad3b03a568d180a01.png",
+    "static/media/background5.jpg": "/static/media/background5.b1d16445cd7cb7f35084.jpg",
+    "static/media/borscht.png": "/static/media/borscht.aaeec4460bb2833407fc.png",
+    "static/media/herring under a Fur Coat.png": "/static/media/herring under a Fur Coat.310a3dffd12d4f635628.png",
+    "static/media/matreshka.png": "/static/media/matreshka.030d5893da8787faef06.png",
+    "static/media/kinopoisk.png": "/static/media/kinopoisk.15339ea9f7d1d5ae9d0d.png",
+    "static/media/whatsapp.png": "/static/media/whatsapp.c6cdb8b63d018f33ade5.png",
+    "static/media/ICQ.png": "/static/media/ICQ.16b67aae0026c638f35c.png",
+    "static/media/logo.png": "/static/media/logo.f8f9448e5029b1a0ae40.png",
+    "static/media/brand.png": "/static/media/brand.0d0ad87ff5d23a9e63df.png",
+    "static/media/VK.png": "/static/media/VK.3cff36cb4188b7ca0b8c.png",
+    "index.html": "/index.html",
+    "main.4f74b24a.css.map": "/static/css/main.4f74b24a.css.map",
+    "main.a098cbba.js.map": "/static/js/main.a098cbba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f74b24a.css",
+    "static/js/main.a098cbba.js"
+  ]
+}
